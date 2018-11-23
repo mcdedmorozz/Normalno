@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Normalno</string>
+    <string name="app_name">Твой личный тренер</string>
+    <string name="normalno">Ты ничего не знаешь</string>
+    <string name="textButton">Всё знать!</string>
 </resources>
